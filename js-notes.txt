@@ -1,0 +1,14 @@
+# JS NOTES
+## UP AND GOING
+### FUNCTIONS AND EXPRESSIONS
+
+a = b + 2;
+thisLine = a + statement;
+2 // literal expression
+a = thisIsAVariableExpression + 2;
+a = thisIsAn + arithmeticExpression;
+thisIs = an + AssignmentExpression;
+
+b + 2
+thisIsAn + expressionStatement;
+
